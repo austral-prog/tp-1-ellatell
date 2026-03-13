@@ -12,4 +12,13 @@ def math():
     7. El valor real de la división
     """
     a = 57
-    b = 7
+    b = 7 
+
+suma = a + b 
+    resta = a - b 
+    producto= a * b 
+    promedio = (a+b)/2 
+    cociente = a / b 
+    resto = a % b 
+    valor = a//b 
+
