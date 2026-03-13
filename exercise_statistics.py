@@ -16,8 +16,8 @@ def statistics():
 promedio = (num1 + num2 + num3 + num4) / 4
     print("El promedio es : ", promedio)
     maximo = max(num1, num2, num3, num4)
-    print("El maximo es: " maximo)
+    print("El maximo es: ", maximo)
     minimo = min(num1, num2, num3, num4)
-    print ("El numero es:" minimo)
+    print ("El numero es:", minimo)
     rango = maximo - minimo
-    print("El rango es: " rango)
+    print("El rango es: ", rango)
