@@ -8,3 +8,7 @@ def rectangle():
     """
     base = 10
     altura = 5
+ area = base * altura
+    print ("El area del triangulo es: ",  area)
+    permimetro = ( base *2) + (2* altura )
+    print ("El permimetro del triangulo es: ", perimetro)
