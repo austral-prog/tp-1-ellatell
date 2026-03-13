@@ -7,3 +7,6 @@ def temperature():
     2. La temperatura original en Celsius
     """
     celsius = 25
+temperatura_fahrenheit = (celsius * 9/5 + 32) 
+print("La temperatura en Fahrenheit es: ", temperatura_fahrenheit) 
+print("La temperatuta en celsius es: ", celsius) 
