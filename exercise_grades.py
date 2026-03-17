@@ -16,7 +16,7 @@ nota_max = max(nota1, nota2, nota3)
 nota_min = (nota1, nota2, nota3) 
 puntos_faltan = 10 - promedio 
 
-print("El promedio de las tres notas es: ", promedio) 
-print("La nota maxima es: ", nota_max) 
-print("La nota minima es: ", nota_min) 
-print("Los puntos faltantes del promedio a 10 son: ", puntos_faltan) 
+print(promedio) 
+print(nota_max) 
+print(nota_min) 
+print(puntos_faltan) 
