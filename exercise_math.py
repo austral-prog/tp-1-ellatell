@@ -14,7 +14,7 @@ def math():
     a = 57
     b = 7 
 
- suma = a + b
+    suma = a + b
     diferencia = a - b
     producto = a * b
     promedio = suma / 2
