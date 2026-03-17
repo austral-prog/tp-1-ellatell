@@ -7,7 +7,7 @@ def currency():
     2. El monto en euros
     3. El monto en reales brasileños
     """
-     pesos = 10000
+    pesos = 10000
     tasa_dolar = 1500  # 1 dólar = 1500 pesos
     monto_dolares = pesos / 1500
     print (monto_dolares)
