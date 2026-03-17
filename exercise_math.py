@@ -14,18 +14,19 @@ def math():
     a = 57
     b = 7 
 
-suma = a + b 
-print(suma)
-    resta = a - b 
-print(resta) 
-    producto= a * b 
-print(producto) 
-    promedio = (a+b)/2 
-print(promedio) 
-    cociente = a / b 
-print(cociente) 
-    resto = a % b 
-print(resto) 
-    valor = a//b 
-print(valor) 
+ suma = a + b
+    diferencia = a - b
+    producto = a * b
+    promedio = suma / 2
+    cociente = a // b
+    resto_division_entera = a % b
+    valor_real_division = a / b
+
+    print(suma)
+    print(diferencia)
+    print(producto)
+    print(promedio)
+    print(cociente)
+    print (resto_division_entera)
+    print(valor_real_division)
 
