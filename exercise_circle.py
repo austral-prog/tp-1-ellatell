@@ -12,6 +12,6 @@ def circle():
     radio = 5
     area_circulo = pi * radio ** 2 
     cincunferencia_circulo = 2 * pi * radio 
-    Print("La circunferencia es: ", cincunferencia_circulo)
+    Print(cincunferencia_circulo)
 
 
