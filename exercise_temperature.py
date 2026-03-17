@@ -7,6 +7,6 @@ def temperature():
     2. La temperatura original en Celsius
     """
     celsius = 25
-temperatura_fahrenheit = (celsius * 9/5 + 32) 
-print(temperatura_fahrenheit) 
-print(celsius) 
+ fahrenheit = (celsius * 9 / 5) + 32
+    print(fahrenheit)
+    print(celsius)
